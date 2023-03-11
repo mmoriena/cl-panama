@@ -132,10 +132,10 @@
     'port': '8069',
 
     'git-repos': [
-        'git@github.com:quilsoft-org/cl-qmequipments.git',
+        'git@github.com:mmoriena/cl-panama.git',
 
-        # Quilsoft
-        'git@github.com:quilsoft-org/qmequipments.git -b 16.0',
+        # ADEN PANAMA
+        # 'git@github.com:quilsoft-org/qmequipments.git -b 16.0',
 
     ],
 
