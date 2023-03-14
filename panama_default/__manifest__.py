@@ -123,7 +123,7 @@
 
     # list of images to use in the form 'name image-url'
     "docker-images": [
-        "odoo matiasmoriena/odoo-junio:3",
+        "odoo matiasmoriena/odoo-junio:11",
         "postgres postgres:10.1-alpine",
         "aeroo jobiols/aeroo-docs",
         "nginx nginx",
